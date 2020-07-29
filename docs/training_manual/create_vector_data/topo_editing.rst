@@ -31,7 +31,7 @@ To set snapping options:
 #. Make sure that the box in the :guilabel:`Avoid overlap` column is
    checked.
 #. Leave the dialog.
-#. Select the :guilabel:`landuse` layer and enter edit mode
+#. Select the :guilabel:`landuse` layer and Click the Toggle Editing button in the Digitizing Toolbar to enter edit mode
    (|toggleEditing|)
 #. Check (under :menuselection:`View --> Toolbars`) that the
    :guilabel:`Advanced Digitizing` toolbar is enabled.
